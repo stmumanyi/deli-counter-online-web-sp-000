@@ -1,3 +1,3 @@
-def line 
+def line(x)
   katz_deli = []
   
