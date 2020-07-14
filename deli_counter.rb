@@ -1,2 +1,3 @@
 def line 
-  katz
+  katz_deli = []
+  
