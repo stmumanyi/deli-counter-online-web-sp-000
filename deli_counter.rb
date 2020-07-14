@@ -2,6 +2,7 @@ katz_deli = []
 
 def line(x)
   line_array =[]
-  x ==
+  x.length == 0 
+  
   
   
